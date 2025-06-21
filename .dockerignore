@@ -1,0 +1,16 @@
+# Ignore dependencies
+node_modules
+
+# Ignore build output
+build
+
+# Ignore Docker files
+Dockerfile
+.dockerignore
+
+# Ignore source control files
+.git
+.gitignore
+
+# Ignore environment variables
+.env
